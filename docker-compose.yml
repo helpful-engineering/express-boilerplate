@@ -1,0 +1,9 @@
+services:
+  app:
+    image: node:18-alpine
+    command: sh -c "npm install && npm run dev"
+    ports:
+      - "8000:8000"
+    working_dir: /express-boilerplate
+    volumes:
+      - ./:/express-boilerplate
