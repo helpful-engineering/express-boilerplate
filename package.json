@@ -1,0 +1,25 @@
+{
+  "name": "express-boilerplate",
+  "version": "1.0.0",
+  "description": "express boilerplate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helpful-engineering-co/express-boilerplate.git"
+  },
+  "keywords": [
+    "express",
+    "typescript",
+    "rest",
+    "api"
+  ],
+  "author": "kylekrny",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helpful-engineering-co/express-boilerplate/issues"
+  },
+  "homepage": "https://github.com/helpful-engineering-co/express-boilerplate#readme"
+}
